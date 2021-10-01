@@ -1,2 +1,2 @@
 # Solve-problems
-solving ome problems with python 
+solving some problems with python 
